@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Environment
+.env
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Secrets / sensitive
+*.key
+*.pem
+config.yaml
+
+# Screenshots (temp files)
+*.jpg
+*.png
+screenshot_*.jpeg
+
+# Calibration outputs
+calibration_*.png
